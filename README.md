@@ -7,7 +7,7 @@ Popular Movies was highly evaluated by certified Udacity code reviewer and was g
 
 
 ##Features
-1-Discover the most popular, the highest rated movies<\n>
+1-Discover the most popular, the highest rated movies
 2-Read movie description
 
 ##How to Work with the Source
