@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="relesedata">ReleseData</string>
+    <string name="voteavreage">VoteAvreage</string>
+    <string name="overview">OverView</string>
+</resources>
